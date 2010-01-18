@@ -14,7 +14,9 @@ class BarDemo < Processing::App
   def plot_graph
     stroke 1
     fill 0, 0, 0, 200
-    graph.bars.each { |bar| rect *bar}  end
+    graph.bars.each { |bar| rect *bar }
+  end
+  
 end
 
 BarDemo.new :title => "Charts!", :width => 1000, :height => 300
