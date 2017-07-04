@@ -1,8 +1,8 @@
 # Charts! for ruby-processing
 
-This is me playing with ruby-processing. Charts! plots line and bar charts. Code on [github][repo], screenshot below.
+This is me playing with ruby-processing. Charts! plots line and bar charts. Code on [GitHub][repo], screenshot below.
 
-![example screenshot](http://github.com/mfilej/ruby-processing-charts/blob/master/bar_example.png?raw=true)
+![example screenshot](https://raw.githubusercontent.com/mfilej/ruby-processing-charts/master/bar_example.png)
 
   [repo]: http://github.com/mfilej/ruby-processing-charts "GitHub repo"
 
